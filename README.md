@@ -1,2 +1,2 @@
-# CrudApp
-This is a demo CRUD app. It is built to understand the basic operations of msqli funtions with the help of createing a note taking web app.
+# Basic Note Taking Application
+This is a CRUD app built with PHP. It is made to understand the basic operations of MySQL functions with the help of creating a note-taking web app.
